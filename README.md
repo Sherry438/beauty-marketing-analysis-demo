@@ -212,13 +212,6 @@ jupyter notebook notebooks/Beauty_Products_Analysis.ipynb
 - Recommendation system development
 - A/B testing framework for pricing strategies
 
-## Contact
-
-For questions or collaboration opportunities, please reach out via:
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-
 ---
 
 **Note:** This is a portfolio project for educational and demonstration purposes. The dataset is used for analysis learning and does not represent current market conditions.
